@@ -5334,7 +5334,7 @@ diff@^5.1.0:
   resolved "https://registry.yarnpkg.com/diff/-/diff-5.1.0.tgz#bc52d298c5ea8df9194800224445ed43ffc87e40"
   integrity sha512-D+mk+qE8VC/PAUrlAU34N+VfXev0ghe5ywmpqrawphmVZc1bEfn56uo9qpyGp1p4xpzOHkSW4ztBd6L7Xx4ACw==
 
-diffhtml@1.0.0-beta.30:
+diffhtml@^1.0.0-beta.30:
   version "1.0.0-beta.30"
   resolved "https://registry.yarnpkg.com/diffhtml/-/diffhtml-1.0.0-beta.30.tgz#725c0a5941bd825675f8a62b701a12a67e7516c7"
   integrity sha512-yrBteaq309reltj+kAnGqsnpJyQSqmCkd5LAJNAcWNmlgvu+PbiUm9bNxdRYi21BQsQsljTxrjs+AWeeHHghWA==
@@ -9748,6 +9748,11 @@ morgan@^1.10.0:
     depd "~2.0.0"
     on-finished "~2.3.0"
     on-headers "~1.0.2"
+
+morphlex@^0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/morphlex/-/morphlex-0.0.14.tgz#c529fc2e94673a110c61eda7d6c3cdc09fdccb12"
+  integrity sha512-FoTgL4vjDV2TmEpy2VrnOyRXpwuuAmxq3Ar0pknSR/NUf0/Xdd0or+VYtRH8jg86kE52RyewIt2bgykZLcvi7w==
 
 ms@2.0.0:
   version "2.0.0"
